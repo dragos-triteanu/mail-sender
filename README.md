@@ -1,2 +1,2 @@
-# enginizer-boot
-Bot version of the enginizer startup project
+# Mail sender
+Sprig based mail sender implementation for GMAIL or Mailgun smtp's .
