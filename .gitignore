@@ -1,0 +1,10 @@
+target/**
+.project
+.classpath
+.springBeans
+.idea/**
+*.iml
+.settings/**
+src/main/webapp/resources/libs/**
+src/main/resources/static/libs/**
+src/main/resources/angular/node_modules/**
